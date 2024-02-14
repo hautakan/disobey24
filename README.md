@@ -4,3 +4,4 @@ You need replace the linker rows of the file with what ever is relevant to the s
 If you want to expand your security research further, you can use the encrypt.py file to encrypt your payloads so that they are not detected by antiVirus softwares:
 python3 encrypt.py payload.bin 
 
+Remember to only use these in an environment where you have the permission to do so.
